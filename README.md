@@ -1,5 +1,5 @@
 # PROJECT-FERRY
-This is my personal project. Created by myself.
+This is one of my personal project. Created by myself.
 
 PROJECT :
 
